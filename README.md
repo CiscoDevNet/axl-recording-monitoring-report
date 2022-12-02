@@ -37,6 +37,12 @@ This project was built using Visual Studio Code, and tested with:
 
 * Rename `.env.example` to `.env`, and edit it to specify your CUCM address and AXL user credentials.
 
-* Select the **Run and Debug** tab, and click the green "Start Debugging" button (or just press `F5`.
+* Open the directory in Visual Studio Code, select the **Run and Debug** tab, and click the green "Start Debugging" button (or press `F5`.)
+
+  Or, to run from the terminal:
+
+  ```
+  python report.py
+  ```
 
 The report output will be written to `supported_list.md`
