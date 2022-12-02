@@ -1,5 +1,7 @@
-Device/Phone (Protocol) | Monitoring | Gateway Recording | Phone (BiB) Recording
------------------------ | ---------- | ----------------- | -------------------
+# Unified CM Silent Monitoring/Recording Supported Device Matrix
+Last update: 2022-12-01 / CUCM version 14.0
+Device | Monitoring | Gateway Recording | Phone (BiB) Recording
+:----- | :--------- | :---------------- | :--------------------
 CTI Port | X | ✓ | X
 CTI Remote Device | X | ✓ | X
 Carrier-integrated Mobile | X | ✓ | X
@@ -28,17 +30,14 @@ Cisco 7970 | ✓ | ✓ | ✓
 Cisco 7971 | ✓ | ✓ | ✓
 Cisco 7975 | ✓ | ✓ | ✓
 Cisco 8811 | ✓ | ✓ | ✓
-Cisco 8811NS | ✓ | ✓ | ✓
 Cisco 8821 | ✓ | ✓ | ✓
 Cisco 8831 | ✓ | ✓ | ✓
 Cisco 8832 | ✓ | ✓ | ✓
 Cisco 8832NR | ✓ | ✓ | ✓
 Cisco 8841 | ✓ | ✓ | ✓
-Cisco 8841NS | ✓ | ✓ | ✓
 Cisco 8845 | ✓ | ✓ | ✓
 Cisco 8851 | ✓ | ✓ | ✓
 Cisco 8851NR | ✓ | ✓ | ✓
-Cisco 8851NS | ✓ | ✓ | ✓
 Cisco 8861 | ✓ | ✓ | ✓
 Cisco 8865 | ✓ | ✓ | ✓
 Cisco 8865NR | ✓ | ✓ | ✓
