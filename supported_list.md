@@ -1,5 +1,5 @@
 # Unified CM Silent Monitoring/Recording Supported Device Matrix
-Last update: 2022-12-01 / CUCM version 14.0
+Last update: 2022-12-14 / CUCM version 14.0
 Device | Monitoring | Gateway Recording | Phone (BiB) Recording
 :----- | :--------- | :---------------- | :--------------------
 CTI Port | X | ✓ | X
@@ -17,7 +17,11 @@ Cisco 7841 | ✓ | ✓ | ✓
 Cisco 7861 | ✓ | ✓ | ✓
 Cisco 7906 | ✓ | ✓ | ✓
 Cisco 7911 | ✓ | ✓ | ✓
+Cisco 7921 | ✓ | ✓ | ✓
+Cisco 7925 | ✓ | ✓ | ✓
+Cisco 7926 | ✓ | ✓ | ✓
 Cisco 7931 | ✓ | ✓ | ✓
+Cisco 7937 | ✓ | ✓ | ✓
 Cisco 7941 | ✓ | ✓ | ✓
 Cisco 7941G-GE | ✓ | ✓ | ✓
 Cisco 7942 | ✓ | ✓ | ✓
@@ -46,6 +50,7 @@ Cisco 8945 | ✓ | ✓ | ✓
 Cisco 8961 | ✓ | ✓ | ✓
 Cisco 9951 | ✓ | ✓ | ✓
 Cisco 9971 | ✓ | ✓ | ✓
+Cisco ATA 186 | X | ✓ | X
 Cisco Cius | X | ✓ | ✓
 Cisco Cius SP | X | ✓ | ✓
 Cisco Collaboration Mobile Convergence | X | ✓ | X
@@ -58,6 +63,7 @@ Cisco IP Communicator | ✓ | ✓ | ✓
 Cisco Jabber for Tablet | ✓ | ✓ | ✓
 Cisco Spark Remote Device | X | ✓ | X
 Cisco Unified Client Services Framework | X | ✓ | ✓
+Cisco VGC Phone | X | ✓ | X
 Cisco Webex VDI Svc Framework | X | ✓ | ✓
 IMS-integrated Mobile (Basic) | X | ✓ | X
 Remote Destination Profile | X | ✓ | X

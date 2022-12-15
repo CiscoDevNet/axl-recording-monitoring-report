@@ -14,7 +14,8 @@ excludeList = [
     'Universal Device Template', # N/A
     'Cisco TelePresence', # Not a real/configurable device?
     'Cisco 7910', # Deprecated as of 11.5(1)
-    'Nokia S60', # 3rd party
+    # 3rd party
+    'Nokia S60', 
     'IPTrade Profile EK',
     'IPTrade TAD',
     'Mindshare MAXplus'
@@ -69,7 +70,6 @@ supportedList = {}
 for device in featureList:
 
     if device.name.cdata in excludeList: continue
-    if device.tkdeviceprotocol.cdata == '0': continue # SCCP
     
     if device.tksupportsfeature.cdata in ( '24', '25', '32' ): # Monitor, Record, Built In Bridge
 
